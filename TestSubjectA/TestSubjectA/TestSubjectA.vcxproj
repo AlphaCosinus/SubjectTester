@@ -136,6 +136,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <Text Include="ReadMe.txt" />
+    <Text Include="ReadMeTesting.txt" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Resource.h" />
